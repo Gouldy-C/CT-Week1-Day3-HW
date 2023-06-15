@@ -186,12 +186,12 @@ header h1 {
 
 .sent {
     margin-left: 23%;
-    background-color: #e63939ee;
+    background-color: rgb(221, 58, 58, 0.98);
 }
 
 .recived {
     margin-right: 23%;
-    background-color: rgb(35, 153, 217);
+    background-color: rgb(35, 153, 217, 0.98);
 }
 
 .message {
