@@ -171,7 +171,6 @@ header h1 {
     margin: 0.25rem auto;
     padding: 0.5rem;
     border-radius: 1rem;
-    background-color: #ac170fe4;
     color: white;
     width: 75%;
     font-size: 0.88rem;
@@ -187,11 +186,12 @@ header h1 {
 
 .sent {
     margin-left: 23%;
+    background-color: #e63939ee;
 }
 
 .recived {
     margin-right: 23%;
-    background-color: rgb(13, 125, 159);
+    background-color: rgb(35, 153, 217);
 }
 
 .message {
