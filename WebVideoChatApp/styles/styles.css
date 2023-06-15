@@ -235,7 +235,7 @@ header h1 {
 @media (max-width: 1000px) {
     .main-grid {
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: repeat(14, 5.5rem);
+        grid-template-rows: repeat(13, 5.5rem);
     }
 
     .chat-box {
